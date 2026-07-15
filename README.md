@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there, I'm Kübra Yıldız 👋
 
-<!--
-**kubrayildiz715/kubrayildiz715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate from Çankırı Karatekin University.
 
-Here are some ideas to get you started:
+I am interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Networking
+Cybersecurity
+Machine Learning
+
+Currently improving myself in Python, SQL and Network Technologies.
+
+Technologies
+Python
+SQL
+PostgreSQL
+Cisco Packet Tracer
+Git
+GitHub
+
+Contact
+https://www.linkedin.com/in/k%C3%BCbra-yildiz/
+kubrayildiz715@gmail.com
